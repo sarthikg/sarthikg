@@ -3,7 +3,7 @@
 <br>
 <p>Welcome to my page! </br> I'm Sarthik Gupta, Full-stack Web Developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chandigarh, India</b>.
 <br><br>
-<h3>I usually code in:</h3>
+<h3>My coding environment:</h3>
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,6 +29,6 @@
 <br>
 <h3>Some of my articles:</h3>
 <ul>
-  <li><a href="https://medium.com/the-scripton-blog/javascript-is-easy-why-do-people-think-its-difficult-5e3d6fb6a36"><b><img src="https://emojis.slackmojis.com/emojis/images/1519621137/3580/coding_horror.png?1519621137" width="20" alt="new" /> The JavaScript Curse! Why do people think it’s difficult?</b></a><br/><i>The JavaScript curse decoded! Psst, there's no curse.</i></li>
-  <li><a href="https://medium.com/the-scripton-blog/the-javascript-curse-event-loop-call-stack-callback-queue-micro-task-queue-f22b1357c4ac"><b><img src="https://emojis.slackmojis.com/emojis/images/1626061864/47348/lemon_squeezy.gif?1626061864" width="20" alt="new" /> The JavaScript Curse! Event-loop, Call Stack, Callback Queue & Micro-task Queue</b></a><br/><i>Complicated terminology decoded in simple language.</i></li>
+  <li><a href="https://medium.com/the-scripton-blog/javascript-is-easy-why-do-people-think-its-difficult-5e3d6fb6a36"><b><img src="https://emojis.slackmojis.com/emojis/images/1519621137/3580/coding_horror.png?1519621137" width="20" alt="new" target="_blank" /> The JavaScript Curse! Why do people think it’s difficult?</b></a><br/><i>The JavaScript curse decoded! Psst, there's no curse.</i></li>
+  <li><a href="https://medium.com/the-scripton-blog/the-javascript-curse-event-loop-call-stack-callback-queue-micro-task-queue-f22b1357c4ac"><b><img src="https://emojis.slackmojis.com/emojis/images/1626061864/47348/lemon_squeezy.gif?1626061864" width="20" alt="new" target="_blank" /> The JavaScript Curse! Event-loop, Call Stack, Callback Queue & Micro-task Queue</b></a><br/><i>Complicated terminology decoded in simple language.</i></li>
 </ul>
