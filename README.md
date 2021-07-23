@@ -45,6 +45,7 @@
         The JavaScript curse decoded! Psst, there's no curse.
     </i>
   </li>
+    <br>
   <li>
     <a href="https://medium.com/the-scripton-blog/the-javascript-curse-event-loop-call-stack-callback-queue-micro-task-queue-f22b1357c4ac">
       <b>
