@@ -4,7 +4,6 @@
 </h1>
 <h3>
     I'm a Full-Stack Web Developer from Chandigarh, India
-    <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="16"/>
 </h3>
 <br>
 <h2>My coding environment:</h2>
