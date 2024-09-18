@@ -5,8 +5,8 @@
 * 👨‍💻  Mostly into full-stack webapps.
 * 🤝  Open Source Enthusiast
 * 🌍  Based in India 🇮🇳
-* 🕵️  Core Contributor @ [The Tor Project](https://www.torproject.org/)
-* 🏫  Senior Software Engineer @ [Soroco](https://www.soroco.com) 
+* 🕵️  Network Health Engineer @ [The Tor Project](https://www.torproject.org/)
+* 🏫  Previously, Senior Software Engineer @ [Soroco](https://www.soroco.com) 
 
 ### Tech I'm passionate about
 <div style="display: flex;">
